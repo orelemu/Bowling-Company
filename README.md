@@ -1,4 +1,4 @@
-# Bowling Company - C Project
+# Bowling Company (C)
 
 ## Project Description
 
